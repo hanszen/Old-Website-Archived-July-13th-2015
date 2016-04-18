@@ -1,0 +1,253 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://hanszen.rice.edu/sites/default/files/CrestIcon.png" type="image/png" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+  <title>Page not found | Hanszen College</title>
+  <style type="text/css" media="all">@import url("http://hanszen.rice.edu/modules/system/system.base.css?ms0gyj");
+@import url("http://hanszen.rice.edu/modules/system/system.menus.css?ms0gyj");
+@import url("http://hanszen.rice.edu/modules/system/system.messages.css?ms0gyj");
+@import url("http://hanszen.rice.edu/modules/system/system.theme.css?ms0gyj");</style>
+<style type="text/css" media="all">@import url("http://hanszen.rice.edu/modules/comment/comment.css?ms0gyj");
+@import url("http://hanszen.rice.edu/sites/all/modules/date/date_api/date.css?ms0gyj");
+@import url("http://hanszen.rice.edu/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?ms0gyj");
+@import url("http://hanszen.rice.edu/sites/all/modules/date/date_repeat_field/date_repeat_field.css?ms0gyj");
+@import url("http://hanszen.rice.edu/modules/field/theme/field.css?ms0gyj");
+@import url("http://hanszen.rice.edu/modules/node/node.css?ms0gyj");
+@import url("http://hanszen.rice.edu/sites/all/modules/reviews/css/reviews.css?ms0gyj");
+@import url("http://hanszen.rice.edu/modules/search/search.css?ms0gyj");
+@import url("http://hanszen.rice.edu/modules/user/user.css?ms0gyj");
+@import url("http://hanszen.rice.edu/sites/all/modules/views/css/views.css?ms0gyj");</style>
+<style type="text/css" media="all">@import url("http://hanszen.rice.edu/sites/all/modules/ctools/css/ctools.css?ms0gyj");
+@import url("http://hanszen.rice.edu/sites/all/modules/nice_menus/css/nice_menus.css?ms0gyj");
+@import url("http://hanszen.rice.edu/sites/all/modules/nice_menus/css/nice_menus_default.css?ms0gyj");
+@import url("http://hanszen.rice.edu/sites/all/modules/panels/css/panels.css?ms0gyj");</style>
+<style type="text/css" media="all">@import url("http://hanszen.rice.edu/sites/all/themes/hanszen_bartik/css/layout.css?ms0gyj");
+@import url("http://hanszen.rice.edu/sites/all/themes/hanszen_bartik/css/style.css?ms0gyj");
+@import url("http://hanszen.rice.edu/sites/all/themes/hanszen_bartik/css/colors.css?ms0gyj");</style>
+<style type="text/css" media="print">@import url("http://hanszen.rice.edu/sites/all/themes/hanszen_bartik/css/print.css?ms0gyj");</style>
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://hanszen.rice.edu/sites/all/themes/hanszen_bartik/css/ie.css?ms0gyj" media="all" />
+<![endif]-->
+
+<!--[if IE 6]>
+<link type="text/css" rel="stylesheet" href="http://hanszen.rice.edu/sites/all/themes/hanszen_bartik/css/ie6.css?ms0gyj" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://hanszen.rice.edu/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="http://hanszen.rice.edu/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://hanszen.rice.edu/misc/drupal.js?ms0gyj"></script>
+<script type="text/javascript" src="http://hanszen.rice.edu/sites/all/modules/nice_menus/js/jquery.bgiframe.min.js?v=2.1"></script>
+<script type="text/javascript" src="http://hanszen.rice.edu/sites/all/modules/nice_menus/js/jquery.hoverIntent.minified.js?v=0.5"></script>
+<script type="text/javascript" src="http://hanszen.rice.edu/sites/all/modules/nice_menus/js/superfish.js?v=1.4.8"></script>
+<script type="text/javascript" src="http://hanszen.rice.edu/sites/all/modules/nice_menus/js/nice_menus.js?v=1.0"></script>
+<script type="text/javascript" src="http://hanszen.rice.edu/sites/all/modules/admin_menu/admin_devel/admin_devel.js?ms0gyj"></script>
+<script type="text/javascript" src="http://hanszen.rice.edu/sites/all/modules/panels/js/panels.js?ms0gyj"></script>
+<script type="text/javascript" src="http://hanszen.rice.edu/sites/all/modules/google_analytics/googleanalytics.js?ms0gyj"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-24335961-1"]);_gaq.push(["_trackPageview", "/404.html?page=" + document.location.pathname + document.location.search + "&from=" + document.referrer]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"hanszen_bartik","theme_token":"5J1BxxOzuQ7_6WqCkJmdhcVdk7Rw5v2team4TM-FDqw","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/nice_menus\/js\/jquery.bgiframe.min.js":1,"sites\/all\/modules\/nice_menus\/js\/jquery.hoverIntent.minified.js":1,"sites\/all\/modules\/nice_menus\/js\/superfish.js":1,"sites\/all\/modules\/nice_menus\/js\/nice_menus.js":1,"sites\/all\/modules\/admin_menu\/admin_devel\/admin_devel.js":1,"sites\/all\/modules\/panels\/js\/panels.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"0":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/reviews\/css\/reviews.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/nice_menus\/css\/nice_menus.css":1,"sites\/all\/modules\/nice_menus\/css\/nice_menus_default.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/themes\/hanszen_bartik\/css\/layout.css":1,"sites\/all\/themes\/hanszen_bartik\/css\/style.css":1,"sites\/all\/themes\/hanszen_bartik\/css\/colors.css":1,"sites\/all\/themes\/hanszen_bartik\/css\/print.css":1,"sites\/all\/themes\/hanszen_bartik\/css\/ie.css":1,"sites\/all\/themes\/hanszen_bartik\/css\/ie6.css":1}},"nice_menus_options":{"delay":800,"speed":"slow"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-fonts page-fonts-helveticaneue page-fonts-helveticaneue-helveticaneuecondensedblack-webfonteot-formatembedded-opentype-url page-fonts-helveticaneue-helveticaneuecondensedblack-webfonteot-formatembedded-opentype-url-web page-fonts-helveticaneue-helveticaneuecondensedblack-webfonteot-formatembedded-opentype-url-web- page-fonts-helveticaneue-helveticaneuecondensedblack-webfonteot-formatembedded-opentype-url-web-20110817181451 page-fonts-helveticaneue-helveticaneuecondensedblack-webfonteot-formatembedded-opentype-url-web-http page-fonts-helveticaneue-helveticaneuecondensedblack-webfonteot-formatembedded-opentype-url-web-http- page-fonts-helveticaneue-helveticaneuecondensedblack-webfonteot-formatembedded-opentype-url-web-http--hchanszenriceedu page-fonts-helveticaneue-helveticaneuecondensedblack-webfonteot-formatembedded-opentype-url-web-http--hchanszenriceedu-fonts page-fonts-helveticaneue-helveticaneuecondensedblack-webfonteot-formatembedded-opentype-url-web-http--hchanszenriceedu-fonts-helveticaneue page-fonts-helveticaneue-helveticaneuecondensedblack-webfonteot-formatembedded-opentype-url-web-http--hchanszenriceedu-fonts-helveticaneue-helveticaneuecondensedblack-webfontwoff-formatwoff-url page-fonts-helveticaneue-helveticaneuecondensedblack-webfonteot-formatembedded-opentype-url-web-http--hchanszenriceedu-fonts-helveticaneue-helveticaneuecondensedblack-webfontwoff-formatwoff-url-web page-fonts-helveticaneue-helveticaneuecondensedblack-webfonteot-formatembedded-opentype-url-web-http--hchanszenriceedu-fonts-helveticaneue-helveticaneuecondensedblack-webfontwoff-formatwoff-url-web- page-fonts-helveticaneue-helveticaneuecondensedblack-webfonteot-formatembedded-opentype-url-web-http--hchanszenriceedu-fonts-helveticaneue-helveticaneuecondensedblack-webfontwoff-formatwoff-url-web-20110817181451 page-fonts-helveticaneue-helveticaneuecondensedblack-webfonteot-formatembedded-opentype-url-web-http--hchanszenriceedu-fonts-helveticaneue-helveticaneuecondensedblack-webfontwoff-formatwoff-url-web-http page-fonts-helveticaneue-helveticaneuecondensedblack-webfonteot-formatembedded-opentype-url-web-http--hchanszenriceedu-fonts-helveticaneue-helveticaneuecondensedblack-webfontwoff-formatwoff-url-web-http- page-fonts-helveticaneue-helveticaneuecondensedblack-webfonteot-formatembedded-opentype-url-web-http--hchanszenriceedu-fonts-helveticaneue-helveticaneuecondensedblack-webfontwoff-formatwoff-url-web-http--hchanszenriceedu page-fonts-helveticaneue-helveticaneuecondensedblack-webfonteot-formatembedded-opentype-url-web-http--hchanszenriceedu-fonts-helveticaneue-helveticaneuecondensedblack-webfontwoff-formatwoff-url-web-http--hchanszenriceedu-css page-fonts-helveticaneue-helveticaneuecondensedblack-webfonteot-formatembedded-opentype-url-web-http--hchanszenriceedu-fonts-helveticaneue-helveticaneuecondensedblack-webfontwoff-formatwoff-url-web-http--hchanszenriceedu-css-helveticaneuecondensedblack-webfontttf-formattruetype-url page-fonts-helveticaneue-helveticaneuecondensedblack-webfonteot-formatembedded-opentype-url-web-http--hchanszenriceedu-fonts-helveticaneue-helveticaneuecondensedblack-webfontwoff-formatwoff-url-web-http--hchanszenriceedu-css-helveticaneuecondensedblack-webfontttf-formattruetype-url-web page-fonts-helveticaneue-helveticaneuecondensedblack-webfonteot-formatembedded-opentype-url-web-http--hchanszenriceedu-fonts-helveticaneue-helveticaneuecondensedblack-webfontwoff-formatwoff-url-web-http--hchanszenriceedu-css-helveticaneuecondensedblack-webfontttf-formattruetype-url-web- page-fonts-helveticaneue-helveticaneuecondensedblack-webfonteot-formatembedded-opentype-url-web-http--hchanszenriceedu-fonts-helveticaneue-helveticaneuecondensedblack-webfontwoff-formatwoff-url-web-http--hchanszenriceedu-css-helveticaneuecondensedblack-webfontttf-formattruetype-url-web-20110817181451 page-fonts-helveticaneue-helveticaneuecondensedblack-webfonteot-formatembedded-opentype-url-web-http--hchanszenriceedu-fonts-helveticaneue-helveticaneuecondensedblack-webfontwoff-formatwoff-url-web-http--hchanszenriceedu-css-helveticaneuecondensedblack-webfontttf-formattruetype-url-web-http page-fonts-helveticaneue-helveticaneuecondensedblack-webfonteot-formatembedded-opentype-url-web-http--hchanszenriceedu-fonts-helveticaneue-helveticaneuecondensedblack-webfontwoff-formatwoff-url-web-http--hchanszenriceedu-css-helveticaneuecondensedblack-webfontttf-formattruetype-url-web-http- page-fonts-helveticaneue-helveticaneuecondensedblack-webfonteot-formatembedded-opentype-url-web-http--hchanszenriceedu-fonts-helveticaneue-helveticaneuecondensedblack-webfontwoff-formatwoff-url-web-http--hchanszenriceedu-css-helveticaneuecondensedblack-webfontttf-formattruetype-url-web-http--hchanszenriceedu page-fonts-helveticaneue-helveticaneuecondensedblack-webfonteot-formatembedded-opentype-url-web-http--hchanszenriceedu-fonts-helveticaneue-helveticaneuecondensedblack-webfontwoff-formatwoff-url-web-http--hchanszenriceedu-css-helveticaneuecondensedblack-webfontttf-formattruetype-url-web-http--hchanszenriceedu-fonts page-fonts-helveticaneue-helveticaneuecondensedblack-webfonteot-formatembedded-opentype-url-web-http--hchanszenriceedu-fonts-helveticaneue-helveticaneuecondensedblack-webfontwoff-formatwoff-url-web-http--hchanszenriceedu-css-helveticaneuecondensedblack-webfontttf-formattruetype-url-web-http--hchanszenriceedu-fonts-helveticaneue page-fonts-helveticaneue-helveticaneuecondensedblack-webfonteot-formatembedded-opentype-url-web-http--hchanszenriceedu-fonts-helveticaneue-helveticaneuecondensedblack-webfontwoff-formatwoff-url-web-http--hchanszenriceedu-css-helveticaneuecondensedblack-webfontttf-formattruetype-url-web-http--hchanszenriceedu-fonts-helveticaneue-helveticaneuecondensedblack-webfontsvg-formatsvg" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+
+<div id="page-wrapper"><div id="page">
+
+  <div id="header" class="without-secondary-menu"><div class="section clearfix">
+
+    
+          <div id="name-and-slogan">
+
+                              <div id="site-name">
+              <strong>
+                <a href="/" title="Home" rel="home"><span>Hanszen College</span></a>
+              </strong>
+            </div>
+                  
+        
+      </div> <!-- /#name-and-slogan -->
+    
+          <div id="superheader" class=""><div class="section">
+          <div class="region region-superheader">
+    <div id="block-search-form" class="block block-search">
+
+    
+  <div class="content">
+    <form action="/Fonts/HelveticaNeue/helveticaneuecondensedblack-webfont.eot)%20format(%22embedded-opentype%22),%20url(/web/20110817181451/http://hc.hanszen.rice.edu/Fonts/HelveticaNeue/helveticaneuecondensedblack-webfont.woff)%20format(%22woff%22),%20url(/web/20110817181451/http://hc.hanszen.rice.edu/css/helveticaneuecondensedblack-webfont.ttf)%20format(%22truetype%22),%20url(/web/20110817181451/http://hc.hanszen.rice.edu/Fonts/HelveticaNeue/helveticaneuecondensedblack-webfont.svg)%20format(%22svg%22" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-cZt8AuvQ18r4pVsWxYqmGkwQNLBK2DcMnG8K7e_upbo" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+  </div>
+      </div></div> <!-- /.section, /#superheader-->
+    
+      <div class="region region-header">
+    <div id="block-nice-menus-1" class="block block-nice-menus">
+
+    <h2 class="element-invisible"><span class="nice-menu-hide-title">Main menu</span></h2>
+  
+  <div class="content">
+    <ul class="nice-menu nice-menu-down nice-menu-main-menu" id="nice-menu-1"><li class="menu-327 menuparent  menu-path-taxonomy-term-1 first odd "><a href="/about-hanszen" title="" class="menu_icon menu-327">About Hanszen</a><ul><li class="menu-419 menuparent  menu-path-node-11 first odd "><a href="/about-hanszen/buildings">Buildings</a><ul><li class="menu-593 menuparent  menu-path-node-39 first odd "><a href="/about-hanszen/buildings/commons">Commons</a><ul><li class="menu-594 menu-path-node-40 first odd last"><a href="/about-hanszen/buildings/commons/lower-commons">Lower Commons</a></li>
+</ul></li>
+<li class="menu-592 menuparent  menu-path-node-38  even "><a href="/about-hanszen/buildings/new-section">New Section</a><ul><li class="menu-698 menu-path-node-105 first odd last"><a href="/about-hanszen/buildings/new-section/room">Room</a></li>
+</ul></li>
+<li class="menu-591 menuparent  menu-path-node-37  odd last"><a href="/about-hanszen/buildings/old-section">Old Section</a><ul><li class="menu-699 menu-path-node-106 first odd last"><a href="/about-hanszen/buildings/old-section/room">Room</a></li>
+</ul></li>
+</ul></li>
+<li class="menu-417 menuparent  menu-path-node-12  even "><a href="/about-hanszen/constitution">Constitution</a><ul><li class="menu-493 menu-path-node-12 first odd "><a href="/about-hanszen/constitution" title="">Constitution</a></li>
+<li class="menu-492 menu-path-node-20  even "><a href="/about-hanszen/constitution/bylaws">Bylaws</a></li>
+<li class="menu-494 menu-path-node-21  odd "><a href="/about-hanszen/constitution/election-code">Election Code</a></li>
+<li class="menu-495 menu-path-node-22  even last"><a href="/about-hanszen/constitution/judicial-code">Judicial Code</a></li>
+</ul></li>
+<li class="menu-418 menu-path-node-10  odd "><a href="/about-hanszen/hanszen-traditions">Hanszen Traditions</a></li>
+<li class="menu-436 menuparent  menu-path-node-9  even last"><a href="/about-hanszen/history-of-hanszen">History of Hanszen</a><ul><li class="menu-679 menu-path-node-92 first odd "><a href="/about-hanszen/history-of-hanszen/masters-list">Masters List</a></li>
+<li class="menu-677 menu-path-node-90  even "><a href="/about-hanszen/history-of-hanszen/presidents-list">Presidents List</a></li>
+<li class="menu-678 menu-path-node-91  odd last"><a href="/about-hanszen/ras-list">RAs List</a></li>
+</ul></li>
+</ul></li>
+<li class="menu-328 menuparent  menu-path-meet-our-family  even "><a href="/meet-our-family" title="">Meet Our Family</a><ul><li class="menu-595 menu-path-meet-our-family-masters first odd "><a href="/meet-our-family/masters" title="">Masters</a></li>
+<li class="menu-597 menu-path-meet-our-family-resident-associates  even "><a href="/meet-our-family/resident-associates" title="">Residential Associates</a></li>
+<li class="menu-599 menu-path-meet-our-family-coordinator  odd "><a href="/meet-our-family/coordinator">College Coordinator</a></li>
+<li class="menu-667 menu-path-meet-our-family-associates  even last"><a href="/meet-our-family/associates">Associates</a></li>
+</ul></li>
+<li class="menu-329 menuparent  menu-path-taxonomy-term-2  odd "><a href="/get-involved" title="">Get Involved</a><ul><li class="menu-481 menuparent  menu-path-node-15 first odd "><a href="/get-involved/cabinet">Cabinet</a><ul><li class="menu-674 menu-path-node-87 first odd "><a href="/get-involved/cabinet/alcoholic-event-registration">Alcoholic Event Registration</a></li>
+<li class="menu-490 menu-path-node-19  even "><a href="/get-involved/cabinet/space-request">Space Request</a></li>
+<li class="menu-696 menu-path-get-involved-cabinet-minutes  odd last"><a href="/get-involved/cabinet/minutes">Minutes</a></li>
+</ul></li>
+<li class="menu-489 menuparent  menu-path-node-18  even "><a href="/get-involved/committees" title="">Committees</a><ul><li class="menu-507 menu-path-node-14 first odd "><a href="/get-involved/committees/ambiance">Ambiance</a></li>
+<li class="menu-636 menu-path-node-41  even "><a href="/get-involved/committees/associates-alumni">Associates / Alumni</a></li>
+<li class="menu-622 menu-path-node-42  odd "><a href="/get-involved/committees/awards">Awards</a></li>
+<li class="menu-623 menu-path-node-43  even "><a href="/get-involved/committees/beer-bike">Beer Bike</a></li>
+<li class="menu-624 menu-path-node-44  odd "><a href="/get-involved/committees/bikes">Bikes</a></li>
+<li class="menu-625 menu-path-node-45  even "><a href="/get-involved/committees/college-nights-crane-day">College Nights / Crane Day</a></li>
+<li class="menu-508 menu-path-node-13  odd "><a href="/get-involved/committees/computers">Computers</a></li>
+<li class="menu-680 menu-path-node-93  even "><a href="/get-involved/committees/finer-things">Finer Things</a></li>
+<li class="menu-626 menu-path-node-46  odd "><a href="/get-involved/committees/hanszen-beyond-the-hedges">Hanszen Beyond the Hedges</a></li>
+<li class="menu-627 menu-path-node-47  even "><a href="/get-involved/committees/hanszen-mens-resource-center">Hanszen Men's Resource Center</a></li>
+<li class="menu-643 menu-path-node-56  odd "><a href="/get-involved/committees/jacks">Jacks</a></li>
+<li class="menu-628 menu-path-node-48  even "><a href="/get-involved/committees/merchandise">Merchandise</a></li>
+<li class="menu-629 menu-path-node-49  odd "><a href="/get-involved/committees/off-campus">Off-Campus</a></li>
+<li class="menu-630 menu-path-node-50  even "><a href="/get-involved/committees/senior-events">Senior Events</a></li>
+<li class="menu-631 menu-path-node-51  odd "><a href="/get-involved/committees/service">Service</a></li>
+<li class="menu-632 menu-path-node-52  even "><a href="/get-involved/committees/spirit">Spirit</a></li>
+<li class="menu-633 menu-path-node-53  odd "><a href="/get-involved/committees/sports">Sports</a></li>
+<li class="menu-634 menu-path-node-54  even "><a href="/get-involved/committees/theatre">Theatre</a></li>
+<li class="menu-635 menu-path-node-55  odd last"><a href="/get-involved/committees/tom-miller">Tom Miller</a></li>
+</ul></li>
+<li class="menu-486 menuparent  menu-path-node-16  odd "><a href="/get-involved/sports">Sports</a><ul><li class="menu-675 menu-path-node-88 first odd last"><a href="/get-involved/sports/college-sports">College Sports</a></li>
+</ul></li>
+<li class="menu-487 menu-path-node-17  even last"><a href="/get-involved/student-run-businesses">Student Run Businesses</a></li>
+</ul></li>
+<li class="menu-330 menuparent  menu-path-taxonomy-term-3  even "><a href="/get-advice" title="">Get Advice</a><ul><li class="menu-496 menuparent  menu-path-node-23 first odd "><a href="/get-advice/academic-advising">Academic Advising</a><ul><li class="menu-498 menu-path-node-24 first odd "><a href="/get-advice/academic-advising/peer-academic-advisors">Peer Academic Advisors</a></li>
+<li class="menu-497 menu-path-node-25  even "><a href="/academic-advising/divisional-advisors">Divisional Advisors</a></li>
+<li class="menu-499 menu-path-node-26  odd "><a href="/get-advice/academic-advising/office-of-academic-advising">Office of Academic Advising</a></li>
+<li class="menu-500 menu-path-node-27  even last"><a href="/get-advice/academic-advising/hanszen-fellows">Hanszen Fellows</a></li>
+</ul></li>
+<li class="menu-501 menu-path-node-28  even "><a href="/get-advice/health-advice">Health Advice</a></li>
+<li class="menu-502 menuparent  menu-path-node-29  odd last"><a href="/get-advice/life-advice">Life Advice</a><ul><li class="menu-504 menu-path-node-31 first odd "><a href="/get-advice/life-advice/cooking">Cooking</a></li>
+<li class="menu-506 menu-path-node-33  even "><a href="/get-advice/life-advice/guide-to-houston">Guide to Houston</a></li>
+<li class="menu-503 menu-path-node-30  odd "><a href="/get-advice/life-advice/laundry">Laundry</a></li>
+<li class="menu-505 menu-path-node-32  even last"><a href="/get-advice/life-advice/public-transit">Public Transit</a></li>
+</ul></li>
+</ul></li>
+<li class="menu-660 menuparent  menu-path-news-events  odd "><a href="/news-events">News and Events</a><ul><li class="menu-659 menuparent  menu-path-news-events-presidential-updates first odd last"><a href="/news-events/presidential-updates">Presidential Updates</a><ul></ul></li>
+</ul></li>
+<li class="menu-332 menuparent  menu-path-node-6  even "><a href="/o-week">O Week</a><ul><li class="menu-662 menu-path-node-66 first odd "><a href="/o-week/about-o-week">About O-Week</a></li>
+<li class="menu-650 menu-path-node-58  even "><a href="/o-week/hanszen">Hanszen</a></li>
+<li class="menu-651 menu-path-node-59  odd "><a href="/o-week/college-system">College System</a></li>
+<li class="menu-670 menu-path-node-85  even "><a href="/o-week/moving-in">Moving In</a></li>
+<li class="menu-666 menu-path-o-week-advisors  odd "><a href="/o-week/advisors">Advisors</a></li>
+<li class="menu-665 menu-path-node-69  even "><a href="/o-week/h-team">H-Team</a></li>
+<li class="menu-652 menu-path-node-60  odd "><a href="/o-week/common-reading">Common Reading</a></li>
+<li class="menu-671 menu-path-node-86  even "><a href="/o-week/advising">Advising</a></li>
+<li class="menu-664 menu-path-node-68  odd "><a href="/o-week/parents">Parents</a></li>
+<li class="menu-697 menu-path-hanszenriceedu-sites-default-files-eldoradoweekbookcompressedpdf  even last"><a href="http://hanszen.rice.edu/sites/default/files/ElDoradOWeekBookcompressed.pdf" title="">Book</a></li>
+</ul></li>
+<li class="menu-333 menu-path-node-7  odd last"><a href="/alumni">Alumni</a></li>
+</ul>
+  </div>
+</div>
+  </div>
+
+    
+    
+  </div></div> <!-- /.section, /#header -->
+
+  
+    
+
+  <div id="main-wrapper" class="clearfix"><div id="main" class="clearfix">
+
+    
+    
+    <div id="content" class="column"><div class="section">
+            <a id="main-content"></a>
+                    <h1 class="title" id="page-title">
+          Page not found        </h1>
+                          <div class="tabs">
+                  </div>
+                          <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    The requested page "/Fonts/HelveticaNeue/helveticaneuecondensedblack-webfont.eot)%20format(%22embedded-opentype%22),%20url(/web/20110817181451/http://hc.hanszen.rice.edu/Fonts/HelveticaNeue/helveticaneuecondensedblack-webfont.woff)%20format(%22woff%22),%20url(/web/20110817181451/http://hc.hanszen.rice.edu/css/helveticaneuecondensedblack-webfont.ttf)%20format(%22truetype%22),%20url(/web/20110817181451/http://hc.hanszen.rice.edu/Fonts/HelveticaNeue/helveticaneuecondensedblack-webfont.svg)%20format(%22svg%22" could not be found.  </div>
+</div>
+  </div>
+      
+    </div></div> <!-- /.section, /#content -->
+
+    
+  </div></div> <!-- /#main, /#main-wrapper -->
+
+  
+  <div id="footer-wrapper"><div class="section">
+
+    
+          <div id="footer" class="clearfix">
+          <div class="region region-footer">
+    <div id="block-block-2" class="block block-block">
+
+    
+  <div class="content">
+    <p class="footer">Hanszen College • MS 743 • Rice University<br /><br />
+      6350 Main St.• Houston, TX 77005<br /><br />
+    Phone: (713) 348-4024 • Fax: (713) 348-5963</p>
+  </div>
+</div>
+  </div>
+      </div> <!-- /#footer -->
+    
+  </div></div> <!-- /.section, /#footer-wrapper -->
+
+</div></div> <!-- /#page, /#page-wrapper -->
+  </body>
+</html>

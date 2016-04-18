@@ -1,0 +1,121 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/Master.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Hanszen College</title>
+<!-- InstanceEndEditable -->
+<link href="/css/stylesheet.css" rel="stylesheet" type="text/css" />
+<link rel="icon" type="image/png" href="/images/CrestIcon.png" />
+<link rel="stylesheet" href="http://www.google.com/cse/style/look/minimalist.css" type="text/css" />
+<!--Google Tracking Code-->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-24335961-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+<!-- javascript for hover images-->
+<script type="text/javascript" src="/js/script.js"></script>
+</head>
+
+<body onload="MM_preloadImages('/images/header/AboutHanszenBlueYellow.png','/images/header/MeetOurFamilyBlueYellow.png','/images/header/GetInvolvedBlueYellow.png','/images/header/GetAdviceBlueYellow.png','/images/header/NewsAndEventsBlueYellow.png','/images/header/OWeekBlueYellow.png','/images/header/AlumniBlueYellow.png')">
+
+<div class="container">
+  <div class="header">
+  <table class = "nav" width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="583" align="left" valign="top"><h1><a href="/" style="color:#000">Hanszen College </a> <a href="http://hanszen.rice.edu/" style="font-size:14px">Website</a><a href="/" style="font-size:14px"> | </a><a href="http://hanszen.rice.edu/zenphoto/" style="font-size:14px">Photo Archive</a></h1></td>
+    <td width="377">
+    
+    
+<div id="cse-search-form" style="width: 100%;">Loading</div>
+
+<script src="http://www.google.com/jsapi" type="text/javascript"></script>
+<script type="text/javascript"> 
+  google.load('search', '1', {language : 'en', style : google.loader.themes.MINIMALIST});
+  google.setOnLoadCallback(function() {
+    var customSearchControl = new google.search.CustomSearchControl('016347745248225151706:wlagcty-xtk');
+    customSearchControl.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
+    var options = new google.search.DrawOptions();
+    options.enableSearchboxOnly("http://hanszen.rice.edu/SearchPage.html");    
+    customSearchControl.draw('cse-search-form', options);
+  }, true);
+</script>
+
+
+
+</td>
+  </tr>
+</table>
+ 
+
+
+<table class="nav" width="960" border="0" cellpadding="0" cellspacing="5">
+      <tr>
+        <td align="center">
+        	<a href="/AboutHanszen/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('AboutHanszen','','/images/header/AboutHanszenBlueYellow.png',1)">
+            <img src="/images/header/AboutHanszen.png" name="AboutHanszen" width="125" height="125" alt="About Hanszen"/></a></td>
+        <td align="center">
+        	<a href="/MeetOurFamily/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('MeetOurFamily','','/images/header/MeetOurFamilyBlueYellow.png',1)">
+            <img src="/images/header/MeetOurFamily.png" name="MeetOurFamily" width="125" height="125" alt="Meet Our Family"/></a></td>
+        <td align="center">
+        	<a href="/GetInvolved/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('GetInvolved','','/images/header/GetInvolvedBlueYellow.png',1)">
+            <img src="/images/header/GetInvolved.png" name="GetInvolved" width="125" height="125" alt="Get Involved" /></a></td>
+        <td align="center">
+        	<a href="/GetAdvice/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('GetAdvice','','/images/header/GetAdviceBlueYellow.png',1)">
+            <img src="/images/header/GetAdvice.png" name="GetAdvice" width="125" height="125" alt="Get Advice" /></a></td>
+        <td align="center">
+        	<a href="/NewsEvents/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('NewsAndEvents','','/images/header/NewsAndEventsBlueYellow.png',1)">
+            <img src="/images/header/NewsAndEvents.png" name="NewsAndEvents" width="125" height="125" alt="News and Events"/></a></td>
+        <td align="center">
+        	<a href="/OWeek/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('OWeek','','/images/header/OWeekBlueYellow.png',1)">
+            <img src="/images/header/OWeek.png" name="OWeek" width="125" height="125" alt="O-Week"/></a></td>
+        <td align="center">
+        	<a href="/Alumni/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Alumni','','/images/header/AlumniBlueYellow.png',1)">
+            <img src="/images/header/Alumni.png" name="Alumni" width="125" height="125" alt="Alumni" /></a></td>
+      </tr>
+      </table>
+<!-- InstanceBeginEditable name="Submenu" -->
+<!--Example:
+  <table class="nav" width="960" border="0" cellpadding="0" cellspacing="0">
+      <tr>
+        <td>
+        <ul class="nav">
+            <li><a href="#">History</a></li>
+            <li><a href="#">Traditions</a></li>
+            <li><a href="#">Buildings</a></li>
+            <li><a href="#">Rice</a></li>
+            <li><a href="#">Houston</a></li>
+        </ul>
+       </td>
+      </tr>
+    </table>
+-->
+<!-- InstanceEndEditable --> 
+  <!-- end .header--></div>
+  <div class="content">
+  <!-- InstanceBeginEditable name="Body" -->
+<h2> Error 404: Not Found</h2>
+
+<p>
+Oops! Seems we're lost. Perhaps you should go <a href="../">home</a>.
+</p>
+  <!-- InstanceEndEditable -->
+  <!-- end .content -->
+    <p class="footer">Hanszen College • MS 743 • Rice University<br />
+      6350 Main St.• Houston, TX 77005<br />
+    Phone: (713) 348-4024 • Fax: (713) 348-5963</p>
+  <!-- end .footer --></div>
+  <!-- end .container --></div>
+</body>
+<!-- InstanceEnd --></html>
